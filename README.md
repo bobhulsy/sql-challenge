@@ -7,8 +7,6 @@ This project involves data modeling, data engineering, and data analysis using S
 2. **Data Engineering**: Create a table schema for each CSV file, specifying data types, primary keys, foreign keys, and other constraints. Import each CSV file into its corresponding SQL table.
 3. **Data Analysis**: Answer various questions about the data, such as listing the employee number, last name, first name, sex, and salary of each employee.
 
-```
-
 What you can do with this project:
 - Set up your own SQL database and import your own csv data.
 - Write SQL queries to answer data analysis questions.
