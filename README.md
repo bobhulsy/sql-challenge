@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> dcd7c8a5dd073c65f6968275d88a76a8431b7df6
 This project involves data modeling, data engineering, and data analysis using SQL. The task is to design tables for data from six CSV files, import the data into a SQL database, join data, and answer questions about the data. The data pertains to employees from the 1980s and 1990s at a fictional company, Pewlett Hackard.
 
 ## Instructions
