@@ -1,3 +1,7 @@
+Please see: 
+sql-challenge-erd.png
+sql_challenge_queries.sql
+sql_challenge_schema.sql
 
 This project involves data modeling, data engineering, and data analysis using SQL. The task is to design tables for data from six CSV files, import the data into a SQL database, join data, and answer questions about the data. The data pertains to employees from the 1980s and 1990s at a fictional company, Pewlett Hackard.
 
